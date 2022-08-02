@@ -19,4 +19,4 @@ tk.Label(win,text="Chart",width=30,height=17,fg="#79a8a9",bg='#232931').place(x=
 
 win.mainloop()
 
-# Hello
+# Hi
