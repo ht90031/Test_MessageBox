@@ -8,7 +8,7 @@ win.configure(bg='#303841')
 
 tkMessageBox.showinfo("Entry","Missing file.")
 tkMessageBox.showwarning("ERROR","Warning!!!")
-tkMessageBox.showerror("Auto","Check your file.")
+tkMessageBox.showerror("Auto","Check your files")
 result=tkMessageBox.askquestion("Recover","Download?")
 print(result)
 
